@@ -1,5 +1,5 @@
 """
-
+Write a program to build a simple Employee Management System using class Consider 
 """
 class Employee:
     def __init__(self,id,name,dept,salary):
