@@ -1,5 +1,5 @@
 """
-9. Python : Extract elements with Frequency greater than K
+Python : Extract elements with Frequency greater than K
 nput : test_list = [4, 6, 4, 3, 3, 4, 3, 4, 3, 8], K = 3 
 Output : [4, 3] 
 Explanation : Both elements occur 4 times. 
