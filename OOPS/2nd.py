@@ -1,5 +1,5 @@
 """
-2.	Write a python program to simulate bank operations using class concept. 
+2.Write a python program to simulate bank operations using class concept. 
 Consider acc_n,acc_name,balance as attributes and as private. Bank name as class variable
 Define below methods
 Constructor to create a n bank accounts
