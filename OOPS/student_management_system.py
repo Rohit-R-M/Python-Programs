@@ -1,8 +1,5 @@
-# -*- coding: utf-8 -*-
 """
-Created on Sun Sep 15 05:57:09 2024
-
-@author: sagar
+Write a program to build a Student Management System using class.
 """
 class Student:
     def __init__(self,id,name,age,grade):
